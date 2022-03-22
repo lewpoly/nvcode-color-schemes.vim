@@ -49,7 +49,7 @@ hi CursorColumn guifg=NONE ctermfg=NONE guibg=#282828 ctermbg=235 gui=NONE cterm
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
 hi Directory guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#282828 ctermfg=235 guibg=#d79921 ctermbg=172 gui=NONE cterm=NONE
-hi DiffChange guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+hi DiffChange guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=underline cterm=NONE
 hi DiffDelete guifg=#282828 ctermfg=235 guibg=#cc241d ctermbg=160 gui=NONE cterm=NONE
 hi DiffText guifg=#282828 ctermfg=235 guibg=#d79921 ctermbg=172 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#fb4934 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
